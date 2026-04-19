@@ -1,3 +1,5 @@
 /nenv
 /api/__pycache__
+__pycache__/
+*.pyc
 main.py
